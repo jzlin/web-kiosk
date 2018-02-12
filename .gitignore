@@ -2,6 +2,8 @@
 
 # compiled output
 /dist
+/dist-zip
+!/dist-zip/.gitkeep
 /dist-server
 /tmp
 /out-tsc
